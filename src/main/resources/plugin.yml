@@ -1,0 +1,10 @@
+name: BukkitTaskManager
+version: '${project.version}'
+main: me.invis.bukkittaskmanager.BukkitTaskManager
+commands:
+  bukkittask:
+    aliases:
+      - task
+      - btask
+      - bukkittaskmanager
+      - taskmanager
